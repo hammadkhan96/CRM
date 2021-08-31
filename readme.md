@@ -1,5 +1,5 @@
 
-<a href="https://daybydaycrm.com/">
+<!-- <a href="https://daybydaycrm.com/">
     <img src="https://user-images.githubusercontent.com/15610490/69175894-ed771300-0b04-11ea-9ecd-a5ad6e3d8877.png"  height="100" />
 </a>
 
@@ -66,4 +66,4 @@ You can help to translate DaybydayCRM into other languages by copying the resour
 DaybydayCRM from version 2.0.0 and up is open-sourced software licensed under the [GNU GPLv3](https://opensource.org/licenses/GPL-3.0)...
 [FAQ GPL](https://www.gnu.org/licenses/gpl-faq.html#DoesFreeSoftwareMeanUsingTheGPL)
 
-DaybydayCRM under and not included version 2.0.0 is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT)
+DaybydayCRM under and not included version 2.0.0 is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT) -->
